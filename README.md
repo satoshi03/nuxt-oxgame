@@ -1,6 +1,8 @@
 # nuxt-oxgame
 
-> Simple oxgame written in javascript with nuxtjs.
+> Browser base simple oxgame written in javascript with nuxtjs.
+
+![demo](https://media.giphy.com/media/35QeE7ZzqfehG5cW36/giphy.gif)
 
 ## Build Setup
 
