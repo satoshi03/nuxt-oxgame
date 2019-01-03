@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-oxgame",
+  "version": "1.0.0",
+  "description": "Simple oxgame written in javascript with nuxtjs.",
+  "author": "Satoshi Innami",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
